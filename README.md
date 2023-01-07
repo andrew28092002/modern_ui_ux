@@ -1,4 +1,4 @@
-(Page)[https://andrew28092002.github.io/modern_ui_ux]
+[Page](https://andrew28092002.github.io/modern_ui_ux)
 
 Выполнен на React и Typescript
 Стили написаны с использованием SCSS
